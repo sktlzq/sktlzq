@@ -13,7 +13,7 @@
 
 <td width="45%" valign="middle">
 
-<h3>sup. i'm artem.</h3>
+<h3>Sup , i'm Artem.</h3>
 
 <p><b>software engineering student</b></p>
 
