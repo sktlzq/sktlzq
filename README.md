@@ -1,24 +1,36 @@
-
 <table>
-  <tr>
-    <td width="55%">
-      <img width="504" height="280" alt="02f58a73-1d6e-4188-9340-5113afb3cd20" src="https://github.com/user-attachments/assets/3091c356-3e3e-4a1b-ab1e-252edf3118f7" />>
-    </td>
+<tr>
+<td width="55%" valign="top">
+<img
+  width="504"
+  height="280"
+  alt="terminal gif"
+  src="https://github.com/user-attachments/assets/3091c356-3e3e-4a1b-ab1e-252edf3118f7"
+/>
+</td>
 
-    <td width="45%" valign="top">
+<td width="45%" valign="top">
 
-### hi, i'm artem 👋
+<h3>hi, i'm artem 👋</h3>
 
-software engineering student
+<p><b>software engineering student</b></p>
 
-💻 C++ / Python  
-🚀 Hackathons & pet projects  
-🛰️ Interested in space & science  
-🎮 Sometimes building weird stuff  
+<p>
+💻 C++ / Python<br>
+🚀 Hackathons & pet projects<br>
+🛰️ Interested in space & science<br>
+🎮 Sometimes building weird stuff
+</p>
 
-currently learning:
-`C++` `Qt` `Python` `Docker` `Git`
+<p>
+currently learning:<br><br>
+<code>C++</code>
+<code>Qt</code>
+<code>Python</code>
+<code>Docker</code>
+<code>Git</code>
+</p>
 
-    </td>
-  </tr>
+</td>
+</tr>
 </table>
