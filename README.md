@@ -11,19 +11,26 @@
 
 <td width="45%" valign="top">
 
-<h3>hi, i'm artem 👋</h3>
+<h3>artem.</h3>
 
 <p><b>software engineering student</b></p>
 
+<p><i>building in silence. exploring the unknown.</i></p>
+
 <p>
-💻 C++ / Python<br>
-🚀 Hackathons & pet projects<br>
-🛰️ Interested in space & science<br>
-🎮 Sometimes building weird stuff
+💻 code & systems<br>
+🚀 hackathons & experimental projects<br>
+🛰️ space, science & unanswered questions<br>
+🌌 fascinated by what lies beyond the obvious
 </p>
 
 <p>
-currently learning:<br><br>
+<i>“We are made of star-stuff.”</i><br>
+— Carl Sagan
+</p>
+
+<p>
+currently exploring:<br><br>
 <code>C++</code>
 <code>Qt</code>
 <code>Python</code>
