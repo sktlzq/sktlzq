@@ -1,3 +1,18 @@
+<table>
+<tr>
+
+<td width="55%" valign="middle">
+
+<img
+  width="100%"
+  alt="terminal animation"
+  src="https://github.com/user-attachments/assets/3091c356-3e3e-4a1b-ab1e-252edf3118f7"
+/>
+
+</td>
+
+<td width="45%" valign="top">
+
 <h3>artem.</h3>
 
 <p><b>software engineering student</b></p>
@@ -39,5 +54,6 @@ currently exploring:<br><br>
 </p>
 
 </td>
+
 </tr>
 </table>
