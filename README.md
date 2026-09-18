@@ -1,16 +1,3 @@
-<table>
-<tr>
-<td width="55%" valign="top">
-<img
-  width="504"
-  height="280"
-  alt="terminal gif"
-  src="https://github.com/user-attachments/assets/3091c356-3e3e-4a1b-ab1e-252edf3118f7"
-/>
-</td>
-
-<td width="45%" valign="top">
-
 <h3>artem.</h3>
 
 <p><b>software engineering student</b></p>
@@ -24,10 +11,23 @@
 🌌 fascinated by what lies beyond the obvious
 </p>
 
-<p>
-<i>“We are made of star-stuff.”</i><br>
-— Carl Sagan
-</p>
+<br>
+
+<blockquote>
+<i>
+Night, square, apothecary, lantern,<br>
+Its meaningless and pallid light.<br>
+Return a half a lifetime after –<br>
+All will remain. A scapeless rite.<br><br>
+
+Then die, then have a new beginning,<br>
+And all will turn the same as ere:<br>
+Night, rippled water's frigid grinning,<br>
+Apothecary, lantern, square.
+</i>
+<br><br>
+— Alexander Blok
+</blockquote>
 
 <p>
 currently exploring:<br><br>
