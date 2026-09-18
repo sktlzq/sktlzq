@@ -23,10 +23,10 @@ just building things i find interesting.
 </p>
 
 <p>
-💻 C++ / Python<br>
-👨‍💻 programmer & software developer<br>
-🛠️ building software and learning by practice<br>
-🚀 creating pet projects
+✽ C++ / Python<br>
+✾ programmer & software developer<br>
+❃ building software and learning by practice<br>
+❀ creating pet projects
 </p>
 
 <p>
