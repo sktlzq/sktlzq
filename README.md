@@ -23,10 +23,9 @@ just building things i find interesting.
 
 <p>
 💻 C++ / Python<br>
-⚙️ software & systems<br>
-🚀 hackathons & side projects<br>
-🛰️ space & science<br>
-🎮 occasionally touching grass
+👨‍💻 programmer & software developer<br>
+🛠️ building software and learning by practice<br>
+🚀 creating pet projects
 </p>
 
 <p>
